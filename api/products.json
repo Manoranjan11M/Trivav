@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Sofa",
+    "category": "Sofa",
+    "brand": "ExampleBrand",
+    "price": 10000,
+    "stock": 50,
+    "description": "Modern wooden I Shape sofa displayed in this product page is made up of 100% solid sheesham wood with a contemporary design touch.",
+    "image": "../images/lapi.png"
+  },
+  {
+    "id": 2,
+    "name": "Bed",
+    "category": "Bed",
+    "brand": "woodGadget",
+    "price": 25000,
+    "stock": 100,
+    "image": "../images/iphone.png",
+    "description": "This wooden modern bed is made up of solid sheesham wood. The wooden double bed at Casa furnishing comes at an affordable price."
+  },
+  {
+    "id": 3,
+    "name": "Chair",
+    "category": "Chair",
+    "brand": "WoodBeats",
+    "price": 5000,
+    "stock": 30,
+    "image": "../images/headphone.png",
+    "description": "India wood mart Wooden Arm Chair for Living Room,Armchair for Outdoor & Balcony."
+  },
+  {
+    "id": 4,
+    "name": "Baby Bed",
+    "category": "Baby Bed",
+    "brand": "Fitwood",
+    "price": 15000.00,
+    "stock": 20,
+    "image": "../images/watch.png",
+    "description": "HunyHuny Super Comfy Wooden 12 in 1 Rocking Cot with storage is a perfect choice for nursery. "
+  },
+  {
+    "id": 5,
+    "name": "Window Frame",
+    "category": "Window Frame",
+    "brand": "FrameBeats",
+    "price": 9000.00,
+    "stock": 30,
+    "image": "../images/speakers.png",
+    "description": "Our range of products include malaysian sal bedroom frame, teak wooden frame with attach grill type, sal wood window frames and shutter."
+  },
+  {
+    "id": 6,
+    "name": "Bookshelf",
+    "category": "Bookshelf",
+    "brand": "BookWood",
+    "price": 39000.00,
+    "stock": 20,
+    "image": "../images/tv.png",
+    "description": "83.4 in. Tall White Wood Accent Standard Bookcase with Adjustable Shelf, Doors, Storage Drawer, LED Light."
+  }
+]
